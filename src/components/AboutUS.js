@@ -11,6 +11,7 @@ export default function AboutUS() {
 
   const Why = [
     {
+      
       img: require('../img/a1.png'),
       why_title: "We go beyond",
       why_detail: "We do so much more than just development. We go through each and every small details and requtrements to  make apps perfect. "
